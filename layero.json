@@ -1,0 +1,5 @@
+{
+  "framework": "generic",
+  "runtime": "node_web",
+  "startCommand": "node server.js"
+}
